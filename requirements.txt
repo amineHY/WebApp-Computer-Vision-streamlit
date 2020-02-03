@@ -1,0 +1,16 @@
+# Web application development framework
+streamlit
+
+# Python packages
+numpy #==1.17.2
+
+# Computer Vision
+opencv-python==4.1.1.26
+#opencv-contrib-python#==4.1.2.30
+
+# get data from URL
+pafy
+youtube-dl
+wget
+pipenv
+imutils
