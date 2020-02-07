@@ -310,7 +310,8 @@ class DataManager:
 
         self.url_demo_images = {
             "NY-City": "https://s4.thingpic.com/images/8a/Qcc4eLESvtjiGswmQRQ8ynCM.jpeg",
-            "Paris-street": "https://www.discoverwalks.com/blog/wp-content/uploads/2018/08/best-streets-in-paris.jpg"}
+            "Paris-street": "https://www.discoverwalks.com/blog/wp-content/uploads/2018/08/best-streets-in-paris.jpg",
+            "Paris-street2": "https://www.discoverwalks.com/blog/wp-content/uploads/2018/08/best-streets-in-paris.jpg"}
 
         self.demo_image_examples = {"Family-picture": "./data/family.jpg",
                                     "Fire": "./data/fire.jpg",
