@@ -2,11 +2,10 @@
 streamlit
 
 # Python packages
-numpy #==1.17.2
+numpy 
 
 # Computer Vision
 opencv-python==4.1.1.26
-#opencv-contrib-python#==4.1.2.30
 
 # get data from URL
 pafy
