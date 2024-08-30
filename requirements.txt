@@ -5,7 +5,7 @@ streamlit
 numpy 
 
 # Computer Vision
-opencv-python==4.1.1.26
+opencv-python==4.8.1.78
 
 # get data from URL
 pafy
