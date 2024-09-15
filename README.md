@@ -30,7 +30,7 @@ docker run -ti --rm -v $(pwd):/app aminehy/docker-streamlit-app:latest
 ```
 
 ## Video supports
-=> [www.inveesion.com](www.inveesion.com)
+=> [www.inveesion.com](https://www.inveesion.com/)
 
 
 ## Want to contribute ?
